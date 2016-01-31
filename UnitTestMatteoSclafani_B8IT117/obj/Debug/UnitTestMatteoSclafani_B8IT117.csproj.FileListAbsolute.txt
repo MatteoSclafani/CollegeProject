@@ -1,0 +1,18 @@
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\obj\Debug\UnitTestMatteoSclafani_B8IT117.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\UnitTestMatteoSclafani_B8IT117.dll
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\UnitTestMatteoSclafani_B8IT117.pdb
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\MatteoSclafani_B8IT117.exe
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\MatteoSclafani_B8IT117.pdb
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\obj\Debug\UnitTestMatteoSclafani_B8IT117.dll
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\obj\Debug\UnitTestMatteoSclafani_B8IT117.pdb
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Matteo\Desktop\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\UnitTestMatteoSclafani_B8IT117.dll
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\UnitTestMatteoSclafani_B8IT117.pdb
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\MatteoSclafani_B8IT117.exe
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\MatteoSclafani_B8IT117.pdb
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\obj\Debug\UnitTestMatteoSclafani_B8IT117.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\obj\Debug\UnitTestMatteoSclafani_B8IT117.dll
+C:\Users\Matteo\Desktop\DBS\BLOCK 2\C#\OOP_Assignment\MatteoSclafani_B8IT117\UnitTestMatteoSclafani_B8IT117\obj\Debug\UnitTestMatteoSclafani_B8IT117.pdb
